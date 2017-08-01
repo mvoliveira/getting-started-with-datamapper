@@ -1,0 +1,12 @@
+
+/*text*/
+.textCenter{
+  text-align: center;
+  font-family: Breath;
+}
+
+.colorText{
+  color: yellow;
+  text-shadow: 2px 2px black;
+
+}

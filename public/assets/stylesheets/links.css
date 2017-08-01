@@ -1,0 +1,13 @@
+/*links*/
+.aZar{
+  padding: 10px !important;
+  display: flex;
+  width: 30vw;
+  height: 13vh;
+  border-radius: 100px;
+  text-decoration: none;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  background-color: rgba(0,0,0,0.7);
+}

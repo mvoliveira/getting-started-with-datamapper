@@ -1,0 +1,15 @@
+
+/*fonts*/
+
+@font-face {
+  font-family: Breath;
+  src: url(../fonts/Breathe-Regular.ttf);
+}
+
+.bigFont{
+  font-size: 7em;
+}
+
+.normalFont{
+  font-size: 3em;
+}

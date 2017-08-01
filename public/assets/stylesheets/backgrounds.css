@@ -1,0 +1,24 @@
+.defaultBackground{
+  background-image: url("https://scontent.fpoa8-2.fna.fbcdn.net/v/t1.0-9/14642369_1774894596073438_398805244861682727_n.jpg?oh=46b0747bdb3b9670b777a3bcba9bc63d&oe=5A383DAE");
+
+}
+
+.ptBackground{
+  background-image: url('/assets/images/ptBackground.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.happyBackground{
+  background-image: url("https://scontent.fpoa8-2.fna.fbcdn.net/v/t1.0-9/12645064_1686672748228957_6189899613874167574_n.jpg?oh=117a199b9f694ee01245ceb0b0e98c13&oe=59EC45EB");
+  min-width: 100vw;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}

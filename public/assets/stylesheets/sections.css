@@ -1,0 +1,27 @@
+/*sections*/
+.percent100{
+  min-width: 100vw;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.percent70{
+  display: flex;
+  max-width: 30vw;
+  min-width: 80vw;
+  min-height: 70vh;
+  justify-content: center;
+  align-items: center;
+}
+
+.percent30{
+  display: flex;
+  max-width: 80vw;
+  min-width: 80vw;
+  min-height: 30vh;
+  justify-content: center;
+  align-items: baseline;
+}
